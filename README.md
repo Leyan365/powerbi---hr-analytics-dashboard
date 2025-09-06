@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/c8/Power_BI_logo.svg)
+(https://upload.wikimedia.org/wikipedia/commons/c/c8/Power_BI_logo.svg)
 
 This repository contains a comprehensive Human Resources (HR) Analytics dashboard developed in Power BI. The dashboard is designed to help HR professionals and business leaders gain a full understanding of their workforce through key metrics and actionable insights.
 
